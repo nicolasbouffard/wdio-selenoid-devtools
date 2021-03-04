@@ -1,0 +1,17 @@
+{
+    "chrome": {
+        "default": "89.0",
+        "versions": {
+            "cdtp-89.0": {
+                "image": "cdtp/chrome:89.0",
+                "port": "4444",
+                "path": "/"
+            },
+            "89.0": {
+                "image": "selenoid/chrome:89.0",
+                "port": "4444",
+                "path": "/"
+            }
+        }
+    }
+}
