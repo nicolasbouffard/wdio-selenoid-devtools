@@ -202,7 +202,7 @@ index 22777e5..2d891a4 100644
        ],
 ```
 
-Using a different (Chrome image targeted towards the Chrome Developer Tools Protocol)[https://aerokube.com/images/latest/#_chrome_developer_tools_protocol] :
+Using a different [Chrome image targeted towards the Chrome Developer Tools Protocol](https://aerokube.com/images/latest/#_chrome_developer_tools_protocol) :
 ```diff
 diff --git i/runner/src/index.js w/runner/src/index.js
 index 22777e5..063a7a7 100644
